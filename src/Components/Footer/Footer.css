@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.footerMenu{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+
+}
+.footerMenu > ul{
+    list-style: none;
+}
